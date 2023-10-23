@@ -42,3 +42,28 @@ h3,p{
   color: white;
   background-color: #212121;
 }
+
+.playing {
+  transform: scale(1.1);
+  border-color: #bb86fc;
+  box-shadow: 0 0 1rem #bb86fc;
+}
+
+kbd {
+  display: block;
+  font-size: 4rem;
+}
+
+.sound {
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  color: #bb86fc;
+}
+
+kbd{
+  cursor: pointer;
+}
+
+
