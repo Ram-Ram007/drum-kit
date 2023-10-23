@@ -66,4 +66,22 @@ kbd{
   cursor: pointer;
 }
 
+footer{
+  text-align: center;
+  color: #fff;
+}
 
+a{
+  color: #fff;
+}
+
+.rfooter{
+  position: absolute;
+  bottom:50px;
+  left:35%;
+}
+
+.rfooter a{
+  color: blue;
+  text-align: center;
+}
